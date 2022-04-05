@@ -1,11 +1,12 @@
 @import "variables";
 @import "header";
+@import "hero";
+@import "scrollbar";
 
 @font-face {
   font-family: "Estilo";
   src: url('~assets/fonts/EstiloText-Light.otf') format("OpenType");
 }
-
 
 
 * {
@@ -16,4 +17,13 @@
   line-height: 1.5;
   font-size: 16px;
   font-family: 'Estilo';
+}
+
+.site {
+  padding-top: 10vh;
+}
+
+.container {
+  width: calc(min(1320px, 90%));
+  margin: 0 auto;
 }

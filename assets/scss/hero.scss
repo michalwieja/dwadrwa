@@ -1,0 +1,52 @@
+.hero {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+
+  &:before {
+    background-image: url("~/assets/img/hero-ver.jpg");
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-size: cover;
+    background-position: top;
+    z-index: -1;
+  }
+
+  .title {
+    font-size: $fz100;
+    text-transform: uppercase;
+    padding-bottom: 20vh;
+  }
+
+  //&:after {
+  //  background-color: $black;
+  //  opacity: .6;
+  //  content: "";
+  //  position: absolute;
+  //  top: 0;
+  //  left: 0;
+  //  width: 100%;
+  //  height: 100%;
+  //  background-size: cover;
+  //  background-position: top;
+  //  z-index: -1;
+  //}
+
+}
+
+@media (max-width: $break-900) {
+  .hero {
+    align-items: flex-start;
+    width: 90%;
+    margin: 0 auto;
+
+    &:before {
+      //background-image: url("~@/assets/img/hero-hor.jpg");
+    }
+
+
+  }
+}

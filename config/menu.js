@@ -9,11 +9,11 @@ export default [
   },
   {
     path: '/gallery',
-    name: 'Galeria'
+    name: 'Realizacje'
   },
 
   {
     path: '/contact',
     name: 'Kontakt'
   }
-]
+];
