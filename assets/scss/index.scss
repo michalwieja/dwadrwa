@@ -2,12 +2,12 @@
 @import "header";
 @import "hero";
 @import "scrollbar";
+@import "home";
 
 @font-face {
   font-family: "Estilo";
   src: url('~assets/fonts/EstiloText-Light.otf') format("OpenType");
 }
-
 
 * {
   margin: 0;
@@ -26,4 +26,18 @@
 .container {
   width: calc(min(1320px, 90%));
   margin: 0 auto;
+}
+
+.title-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.section-title {
+  font-size: $fz50;
+  position: relative;
+  border-bottom: 3px solid $black;
+  display: inline-block;
+  margin: 20px auto;
 }
