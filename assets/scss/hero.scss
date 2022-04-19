@@ -27,11 +27,20 @@
   }
 }
 
+@media (max-width: 375px) {
+  .hero {
+    .title {
+      font-size: 24px;
+    }
+  }
+}
+
+
 .socials {
   bottom: 5vh;
   position: absolute;
   display: flex;
   justify-content: flex-end;
-  
+
 
 }
