@@ -13,8 +13,8 @@
               {{ link.name }}
             </NuxtLink>
           </li>
-          <SocialIcons/>
         </ul>
+
         <div class="burger">
           <div class="burger__line"/>
           <div class="burger__line"/>
@@ -28,14 +28,12 @@
 <script>
 
 import menuLinks from '../config/menu.js';
-import SocialIcons from './SocialIcons.vue';
 import Logo from './Logo.vue';
 
 export default {
   name: 'Header',
   components: {
     Logo,
-    SocialIcons
   },
   props: {
     transparent: {

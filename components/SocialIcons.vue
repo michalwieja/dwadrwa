@@ -1,22 +1,20 @@
 <template>
-  <div>
-    <div>
-      <a href="https://www.facebook.com/elladiumplaza/" target="_blank">
-        <uil-facebook />
-        <span v-if="withName">facebook</span>
-      </a>
-    </div>
-    <div>
-      <a href="https://www.instagram.com/elladiumplaza/" target="_blank">
-        <uil-instagram />
-        <span v-if="withName">instagram</span>
-      </a>
-    </div>
+  <div class="wrapper">
+    <div><a href="https://www.facebook.com/dwadrwa" target="_blank">
+      <uil-facebook size="25"/>
+      /dwadrwa
+      <span v-if="withName">facebook</span>
+    </a></div>
+    <div><a href="https://www.instagram.com/dwadrwa/" target="_blank">
+      <uil-instagram size="25"/>
+      /dwadrwa
+      <span v-if="withName">instagram</span>
+    </a></div>
   </div>
 </template>
 
 <script>
-import { UilFacebook, UilInstagram } from '@iconscout/vue-unicons'
+import { UilFacebook, UilInstagram } from '@iconscout/vue-unicons';
 
 export default {
   name: 'SocialIcons',
@@ -30,5 +28,22 @@ export default {
       default: false
     }
   }
-}
+};
 </script>
+
+<style lang="scss" scoped>
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+
+
+  a {
+    display: flex;
+    align-items: center;
+
+  }
+
+}
+</style>
