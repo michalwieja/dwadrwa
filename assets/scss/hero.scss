@@ -1,22 +1,29 @@
 .hero {
   height: 100vh;
-  display: flex;
-  justify-content: center;
-
-  &:before {
-    background-image: url("~/assets/img/hero-ver.jpg");
-    content: "";
-    position: absolute;
-    inset: 0;
-    background-size: cover;
-    background-position: top;
-    z-index: -1;
-  }
 
   .title {
     font-size: $fz40;
     padding-top: 20vh;
+    text-align: center;
   }
+
+  &__img {
+    position: absolute;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    width: 100%;
+
+    img {
+      height: 100%;
+      width: 100%;
+      object-fit: cover;
+    }
+  }
+}
+
+.content-container {
+  padding-bottom: 10vh;
 }
 
 @media (max-width: $break-900) {
@@ -35,11 +42,13 @@
   }
 }
 
-
 .socials {
-  bottom: 5vh;
-  position: absolute;
-  display: flex;
-  justify-content: flex-end;
-  z-index: 10;
+  //bottom: 5vh;
+  //position: absolute;
+  //display: flex;
+  //justify-content: flex-end;
+  //z-index: 1;
+  position: relative;
+  text-align: right;
+  top: 67vh;
 }

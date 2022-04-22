@@ -1,18 +1,20 @@
 <template>
-  <div class="container">
-    <div class="socials container">
-      <a href="https://www.instagram.com/dwadrwa/" target="_blank">
-        <IgIcon style="height: 30; width: 30"/>
-      </a>
-      <a href="https://www.facebook.com/dwadrwa" target="_blank">
-        <FbIcon style="height: 30; width: 30"/>
-      </a>
-    </div>
-    <div class="hero">
+  <div>
+    <div class="hero container">
+      <div class="hero__img">
+        <nuxt-img loading="lazy" sizes="2xl:100vw" src="/hero-ver.jpg"/>
+      </div>
       <div class="title" data-aos="zoom-in" data-aos-delay="600" data-aos-duration="1200"> - z
         miłości do drewna -
       </div>
-
+      <div class="socials">
+        <a href="https://www.instagram.com/dwadrwa/" target="_blank">
+          <IgIcon style="height: 30; width: 30"/>
+        </a>
+        <a href="https://www.facebook.com/dwadrwa" target="_blank">
+          <FbIcon style="height: 30; width: 30"/>
+        </a>
+      </div>
     </div>
     <div class="container">
       <div class="title-container">
@@ -68,7 +70,7 @@
             w Waszych wnętrzach zagości coś naprawdę wyjątkowego.</p>
         </div>
         <div class="photo">
-          <img :src="require('/assets/img/_PEP2603.jpg')" alt="">
+          <nuxt-img sizes="2xl:400" src="/home.jpg"/>
         </div>
       </div>
     </div>

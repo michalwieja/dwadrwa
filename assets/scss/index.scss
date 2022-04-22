@@ -9,6 +9,15 @@
   src: url('~assets/fonts/EstiloText-Light.otf') format("OpenType");
 }
 
+body {
+  overflow-x: hidden;
+  background-image: url("~/assets/img/logo-solo-5p.png");
+  background-size: cover;
+  z-index: -1;
+
+}
+
+
 * {
   margin: 0;
   padding: 0;
@@ -37,7 +46,7 @@
 .section-title {
   font-size: $fz50;
   position: relative;
-  border-bottom: 3px solid $black;
+  border-bottom: 1px solid $black;
   display: inline-block;
   margin: 20px auto;
 }

@@ -1,17 +1,21 @@
 <template>
   <div class="app">
     <Header/>
-    <div class="site">
     <Nuxt/>
-    </div>
+    <Footer/>
   </div>
 
 </template>
 
 <script>
 import Header from '../components/Header.vue';
+import Footer from '../components/Footer.vue';
+
 export default {
   name: 'default',
-  components: { Header }
+  components: {
+    Footer,
+    Header
+  }
 };
 </script>
