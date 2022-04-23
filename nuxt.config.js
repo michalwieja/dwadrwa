@@ -1,6 +1,6 @@
 export default {
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
-  // ssr: false,
+  ssr: false,
 
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -53,11 +53,7 @@ export default {
   buildModules: [
     // https://go.nuxtjs.dev/eslint
     '@nuxtjs/eslint-module',
-    ['@nuxt/image', {
-      provider: 'static',
-      ssr: true
-    }],
-
+    '@nuxt/image'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules

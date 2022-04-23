@@ -17,7 +17,7 @@
       </div>
     </div>
     <div class="container">
-      <div class="title-container">
+      <div class="title-container" data-aos="zoom-in" data-aos-delay="600" data-aos-duration="1200">
         <div class="section-title">
           o mnie
         </div>
