@@ -14,7 +14,6 @@ body {
   background-image: url("~/assets/img/logo-solo-5p.png");
   background-size: cover;
   z-index: -1;
-
 }
 
 
@@ -30,6 +29,7 @@ body {
 
 .site {
   padding-top: 10vh;
+  min-height: 100vh;
 }
 
 .container {

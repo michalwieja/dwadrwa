@@ -1,29 +1,14 @@
 <template>
   <div>
     <div class="hero container">
-      <div class="hero__img">
-        <nuxt-img loading="lazy" sizes="2xl:100vw" src="/hero-ver.jpg"/>
-      </div>
-      <div class="title" data-aos="zoom-in" data-aos-delay="600" data-aos-duration="1200"> - z
-        miłości do drewna -
-      </div>
-      <div class="socials">
-        <a href="https://www.instagram.com/dwadrwa/" target="_blank">
-          <IgIcon style="height: 30; width: 30"/>
-        </a>
-        <a href="https://www.facebook.com/dwadrwa" target="_blank">
-          <FbIcon style="height: 30; width: 30"/>
-        </a>
-      </div>
+      <Hero/>
+      <Socials/>
     </div>
     <div class="container">
-      <div class="title-container" data-aos="zoom-in" data-aos-delay="600" data-aos-duration="1200">
-        <div class="section-title">
-          o mnie
-        </div>
-      </div>
+      <Title title="o mnie"/>
+
       <div class="content-container">
-        <div class="text">
+        <div class="text" data-aos="fade-in" data-aos-duration="1000">
           <p>
             Cześć, nazywam się Filip. Jeśli tu trafiłeś, to prawdopodobnym jest, że podzielasz moją
             miłość
@@ -69,7 +54,7 @@
             że połączenie Waszych inspiracji z moim doświadczeniem sprawi, że
             w Waszych wnętrzach zagości coś naprawdę wyjątkowego.</p>
         </div>
-        <div class="photo">
+        <div class="photo" data-aos="fade-in" data-aos-duration="1000">
           <nuxt-img sizes="2xl:400" src="/home.jpg"/>
         </div>
       </div>
@@ -78,13 +63,14 @@
 </template>
 
 <script>
-import FbIcon from '../components/FbIcon.vue';
-import IgIcon from '../components/IgIcon.vue';
+import Socials from '../components/Socials.vue';
+import Title from '../components/Title.vue';
 
 export default {
   components: {
-    IgIcon,
-    FbIcon
+    Title,
+    Socials,
+
   }
 };
 </script>

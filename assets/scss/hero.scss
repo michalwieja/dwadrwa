@@ -5,7 +5,11 @@
     font-size: $fz40;
     padding-top: 20vh;
     text-align: center;
+    animation: fadein 2s;
+    position: relative;
+    z-index: 1;
   }
+
 
   &__img {
     position: absolute;
@@ -43,12 +47,17 @@
 }
 
 .socials {
-  //bottom: 5vh;
-  //position: absolute;
-  //display: flex;
-  //justify-content: flex-end;
-  //z-index: 1;
   position: relative;
   text-align: right;
   top: 67vh;
+}
+
+
+@keyframes fadein {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
