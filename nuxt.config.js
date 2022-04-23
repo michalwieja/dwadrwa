@@ -4,7 +4,6 @@ export default {
 
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
-  ssr: false,
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
@@ -55,7 +54,8 @@ export default {
     // https://go.nuxtjs.dev/eslint
     '@nuxtjs/eslint-module',
     ['@nuxt/image', {
-      provider: 'static'
+      provider: 'static',
+      ssr: true
     }],
 
   ],
