@@ -8,7 +8,7 @@ export default [
     name: 'Oferta'
   },
   {
-    path: '/gallery',
+    path: '/products',
     name: 'Realizacje'
   },
 
