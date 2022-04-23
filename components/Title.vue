@@ -1,5 +1,5 @@
 <template>
-  <div class="title-container" data-aos="zoom-in" data-aos-duration="1000">
+  <div class="title-container" data-aos="fade-in" data-aos-duration="1000">
     <div class="section-title">
       {{ title }}
     </div>

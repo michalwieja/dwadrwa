@@ -1,0 +1,21 @@
+.contact {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &__data {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  &__row {
+    font-size: $fz30;
+  }
+}
+
+@media (max-width: $break-900) {
+  .contact {
+    display: block;
+  }
+}

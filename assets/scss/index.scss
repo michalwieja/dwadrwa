@@ -3,6 +3,9 @@
 @import "hero";
 @import "scrollbar";
 @import "home";
+@import "content-with-image";
+@import "offer";
+@import "contact";
 
 @font-face {
   font-family: "Estilo";
@@ -16,7 +19,6 @@ body {
   z-index: -1;
 }
 
-
 * {
   margin: 0;
   padding: 0;
@@ -29,7 +31,7 @@ body {
 
 .site {
   padding-top: 10vh;
-  min-height: 100vh;
+  min-height: 95vh;
 }
 
 .container {
@@ -49,4 +51,8 @@ body {
   border-bottom: 1px solid $black;
   display: inline-block;
   margin: 20px auto;
+}
+
+a {
+  text-decoration: none;
 }

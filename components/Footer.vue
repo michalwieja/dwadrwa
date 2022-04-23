@@ -18,6 +18,6 @@ export default {
 <style>
 .footer {
   text-align: center;
-  padding: 2vh;
+  height: 5vh;
 }
 </style>
