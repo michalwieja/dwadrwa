@@ -6,7 +6,6 @@
     </div>
     <div class="container">
       <Title title="o mnie"/>
-
       <div class="content-container">
         <div class="text" data-aos="fade-in" data-aos-duration="1000">
           <p>

@@ -35,15 +35,6 @@
           />
         </div>
       </div>
-      <!--      <div class="products__container">-->
-      <!--        <div v-for="file in product.files" :key="file">-->
-      <!--          <nuxt-img :src="`/products/${product.id}/${file}`" fit="cover"-->
-      <!--                    sizes="2xl:20vw"-->
-      <!--          />-->
-      <!--        </div>-->
-      <!--      </div>-->
-
-
     </div>
   </div>
 </template>
@@ -60,7 +51,6 @@ export default {
   },
   methods: {
     handleClick(id, filename) {
-      console.log(id, filename);
       this.$router.push(`/products/${id}/${filename}`);
     },
     getPartOfGallery(part = 1, gallery) {
