@@ -5,6 +5,14 @@
 
   .text {
     width: 66%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+
+    h2 {
+      font-size: $fz20;
+      text-align: center;
+    }
   }
 
   .photo {

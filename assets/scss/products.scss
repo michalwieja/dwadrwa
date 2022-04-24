@@ -17,3 +17,20 @@
     text-align: center;
   }
 }
+
+.column-wrapper {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  padding-top: 5vh;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  img {
+    width: 100%;
+  }
+}

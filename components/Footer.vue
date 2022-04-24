@@ -17,6 +17,7 @@ export default {
 
 <style>
 .footer {
+  bottom: 0;
   text-align: center;
   height: 5vh;
 }
