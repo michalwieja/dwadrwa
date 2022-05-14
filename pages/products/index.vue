@@ -6,30 +6,12 @@
     <div v-for="product in products" :key="product.id">
       <Title :title="product.title"/>
       <h3>{{ product.desc }}</h3>
-      <div class="column-wrapper">
-        <div class="column">
+      <div class="gridContainer">
+        <div v-for="(element, index) in product.files" :key="element"
+             :class="`gridElement-${index}`">
           <nuxt-img
-            v-for="element in getPartOfGallery(1, product)"
-            :key="element"
             :src="`/products/${product.id}/${element}`"
-            preload
-            @click="handleClick(product.id, element)"
-          />
-        </div>
-        <div class="column">
-          <nuxt-img
-            v-for="element in getPartOfGallery(2, product)"
-            :key="element"
-            :src="`/products/${product.id}/${element}`"
-            preload
-            @click="handleClick(product.id, element)"
-          />
-        </div>
-        <div class="column">
-          <nuxt-img
-            v-for="element in getPartOfGallery(3, product)"
-            :key="element"
-            :src="`/products/${product.id}/${element}`"
+            fit="cover"
             preload
             @click="handleClick(product.id, element)"
           />
@@ -53,11 +35,11 @@ export default {
     handleClick(id, filename) {
       this.$router.push(`/products/${id}/${filename}`);
     },
-    getPartOfGallery(part = 1, gallery) {
-      return gallery?.files.filter((el, index) => {
-        return (index + part) % 3 === 0;
-      });
-    }
   }
 };
 </script>
+
+<style lang="scss">
+
+
+</style>

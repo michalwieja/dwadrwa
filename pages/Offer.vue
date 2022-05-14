@@ -7,7 +7,7 @@
       LOKALNA – POMIARY
       – PROJEKT –
       WIZUALIZACJA – WYCENA –
-      MONTAŻ - INDYWIDUALNE PODEJŚCIE DO KAŻDEGO KLIENTA - SPERSONALIZOWANE PRODUKTY
+      MONTAŻ
     </div>
     <ContentWithImage filename="oferta_1.jpg" style="padding-top: 5vh">
       <div class="text"><p>Co oferuję? Nieskończoną ilość pomysłów i kombinacji na użycie drewna we
@@ -29,6 +29,10 @@
         jego nieregularną strukturę i niepowtarzalność. Z każdego kawałka staram się wydobyć jego
         unikatowy charakter. </p></div>
     </ContentWithImage>
+    <div class="subtitle"
+         data-aos="fade-in" data-aos-duration="1000">
+      INDYWIDUALNE PODEJŚCIE DO KAŻDEGO KLIENTA - SPERSONALIZOWANE PRODUKTY
+    </div>
   </div>
 </template>
 
