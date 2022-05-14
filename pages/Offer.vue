@@ -10,10 +10,14 @@
       MONTAŻ
     </div>
     <ContentWithImage filename="oferta_1.jpg" style="padding-top: 5vh">
-      <div class="text"><p>Co oferuję? Nieskończoną ilość pomysłów i kombinacji na użycie drewna we
-        wnętrzach, dlatego
-        moja oferta ma charakter otwarty. Tu (łączenie z zakładką REALIZACJE) znajdziesz rzeczy,
-        które do tej pory zrealizowałem.</p>
+      <div class="text">
+        <p>Co oferuję? Nieskończoną ilość pomysłów i kombinacji na użycie drewna we
+          wnętrzach, dlatego
+          moja oferta ma charakter otwarty.
+          <nuxt-link class="link" to="/products">Tu znajdziesz rzeczy,
+            które do tej pory zrealizowałem.
+          </nuxt-link>
+        </p>
         <p>Jeśli szukasz customowych mebli na wymiar do biura czy domu, napisz do mnie – omówimy
           szczegóły, dokonam wyceny i przygotuję dla Ciebie projekt. W razie większych realizacji -
           przyjadę na wizję lokalną, dokonam pomiarów i przygotuję wizualizację mebla w Twoim

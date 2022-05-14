@@ -50,11 +50,8 @@ body {
   position: relative;
   border-bottom: 1px solid $black;
   display: inline-block;
-  margin: 10vh auto;
-}
-
-a {
-  text-decoration: none;
+  margin: 5vh auto;
+  text-align: center;
 }
 
 .page-enter-active, .page-leave-active {
