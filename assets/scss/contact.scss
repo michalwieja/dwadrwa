@@ -3,6 +3,14 @@
   align-items: center;
   justify-content: center;
 
+  &__title {
+    font-size: $fz50;
+    position: relative;
+    border-bottom: 1px solid $black;
+    display: inline-block;
+    margin: 2vh auto;
+  }
+
   &__data {
     display: flex;
     flex-direction: column;

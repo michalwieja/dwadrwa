@@ -8,7 +8,7 @@
       <h3>{{ product.desc }}</h3>
       <div class="gridContainer">
         <div v-for="(element, index) in product.files" :key="element"
-             :class="`gridElement-${index}`">
+             :class="`gridElement-${index} length-${product.files.length}`">
           <nuxt-img
             :src="`/products/${product.id}/${element}`"
             fit="cover"
