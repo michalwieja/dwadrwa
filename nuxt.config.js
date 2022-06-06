@@ -7,7 +7,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'dwadrwa',
+    title: 'Dwadrwa - z miłości do drewna',
     htmlAttrs: {
       lang: 'pl'
     },
@@ -19,19 +19,55 @@ export default {
       },
       {
         hid: 'description',
-        name: 'description',
+        name: ' Cześć, mam na imię Filip. Jeśli tu trafiłeś, to prawdopodobnym jest, że podzielasz moją miłość do drewna',
         content: ''
       },
       {
         name: 'format-detection',
         content: 'telephone=no'
+      },
+      {
+        hid: 'og:type',
+        property: 'og:type',
+        content: 'website'
+      },
+      {
+        hid: 'og:title',
+        property: 'og:title',
+        content: 'Dwadrwa - z miłości do drewna'
+      }, {
+        hid: 'og:description',
+        property: 'og:description',
+        content: ' Cześć, mam na imię Filip. Jeśli tu trafiłeś, to prawdopodobnym jest, że podzielasz moją miłość do drewna'
+      },
+      {
+        hid: 'og:image',
+        property: 'og:image',
+        content: '/dwadrwa1200x630.jpg'
       }
     ],
     link: [
       {
+        rel: 'apple-touch-icon',
+        sizes: '180x180',
+        href: '/favicon/apple-touch-icon.png'
+      },
+      {
         rel: 'icon',
-        type: 'image/x-icon',
-        href: '/favicon.ico'
+        type: 'image/png',
+        sizes: '32x32',
+        href: '/favicon/favicon-32x32.png'
+      },
+      {
+        rel: 'icon',
+        type: 'image/png',
+        sizes: '16x16',
+        href: '/favicon/favicon-16x16.png'
+      },
+      {
+        rel: 'mask-icon',
+        href: '/favicon/safari-pinned-tab.svg',
+        color: '#5bbad5'
       }
     ]
   },
