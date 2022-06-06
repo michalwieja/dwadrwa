@@ -18,7 +18,7 @@
         </div>
         <div class="contact__row">Stacjonuję na terenie Śląska, jednak szerokość geograficzna mnie
           nie ogranicza
-          w działaniu
+          w&nbsp;działaniu
         </div>
 
       </div>

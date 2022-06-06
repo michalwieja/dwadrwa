@@ -20,7 +20,7 @@
         <p>Jeśli szukasz customowych mebli na wymiar do biura czy domu, napisz do mnie – omówimy
           szczegóły, dokonam wyceny i&nbsp;przygotuję dla Ciebie projekt. W&nbsp;razie większych
           realizacji -
-          przyjadę na wizję lokalną, dokonam pomiarów i&nbsp;przygotuję wizualizację mebla w Twoim
+          przyjadę na wizję lokalną, dokonam pomiarów i&nbsp;przygotuję wizualizację mebla w&nbsp;Twoim
           wnętrzu. </p></div>
     </ContentWithImage>
     <ContentWithImage filename="oferta_2.jpg" reverse style="padding-top: 5vh">

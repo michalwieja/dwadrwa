@@ -39,7 +39,7 @@
           </p>
           <h2>inspiracje</h2>
           <p>
-            Realizuję w niej wszystko to, czym
+            Realizuję w&nbsp;niej wszystko to, czym
             nasiąkałem przez lata – rustykalne formy przywiezione
             z&nbsp;włoskiej tawerny, metalowe akcenty, które pamiętam z kuźni w&nbsp;katowickim
             Plastyku, ale
@@ -60,7 +60,7 @@
             chcielibyście mieć. Jeśli urządzacie biuro - podpowiem, jaki regał byłby odpowiedni.
             Wierzę,
             że połączenie Waszych inspiracji z&nbsp;moim doświadczeniem sprawi, że
-            w Waszych wnętrzach zagości coś naprawdę wyjątkowego.</p>
+            w&nbsp;Waszych wnętrzach zagości coś naprawdę wyjątkowego.</p>
         </div>
         <div class="photo" data-aos="fade-in" data-aos-duration="1000">
           <nuxt-img sizes="2xl:400" src="/home.jpg"/>
