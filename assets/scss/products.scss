@@ -14,9 +14,12 @@
   h3 {
     font-size: $fz24;
     text-align: center;
+    display: flex;
+    justify-content: center;
 
     a {
       font-size: inherit;
+      margin: 0 5px;
     }
   }
 }

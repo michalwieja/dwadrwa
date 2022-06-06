@@ -8,6 +8,19 @@
         <div><a class="contact__row" href="mailto:karkoszf@gmail.com">mail:
           karkoszf@gmail.com</a>
         </div>
+        <div>
+          <a href="https://www.instagram.com/dwadrwa/" target="_blank">
+            <IgIcon style="height: 30; width: 30"/>
+          </a>
+          <a href="https://www.facebook.com/dwadrwa" target="_blank">
+            <FbIcon style="height: 30; width: 30"/>
+          </a>
+        </div>
+        <div class="contact__row">Stacjonuję na terenie Śląska, jednak szerokość geograficzna mnie
+          nie ogranicza
+          w działaniu
+        </div>
+
       </div>
     </ContentWithImage>
   </div>

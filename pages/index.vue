@@ -9,15 +9,14 @@
       <div class="content-container">
         <div class="text" data-aos="fade-in" data-aos-duration="1000">
           <p>
-            Cześć, nazywam się Filip. Jeśli tu trafiłeś, to prawdopodobnym jest, że
+            Cześć, mam na imię Filip. Jeśli tu trafiłeś, to prawdopodobnym jest, że
             podzielasz moją
             miłość
-            do drewna i szukasz wyjątkowych mebli lub drewnianych dodatków do swojego wnętrza.
+            do drewna i&nbsp;szukasz wyjątkowych mebli lub drewnianych dodatków do swojego wnętrza.
             Pozwól
             zatem zaprosić się do mojego świata.</p>
-          <h2>pasje</h2>
-          <p> Prace rękodzielnicze i majsterkowanie pokochałem już za bajtla, budując szałasy i
-            naprawiając
+          <h2 class="text-underline">pasje</h2>
+          <p> Prace rękodzielnicze i&nbsp;majsterkowanie pokochałem już za bajtla, budując szałasy i&nbsp;naprawiając
             przyczepę kempingową podczas kaszubskich wakacji z rodzicami. Niedługo później
             zaciekawił
             mnie
@@ -26,37 +25,41 @@
             ukończyłem z wyróżnieniem na kierunku metaloplastyki.</p>
           <h2>podróże</h2>
           <p>
-            Druga część mojej duszy ciągnęła mnie w świat, dlatego swoje zawodowe życie związałem
-            z turystyką. Jako pilot-przewodnik pokazywałem swoim podopiecznym kraje bliższe i
-            dalsze,
+            Druga część mojej duszy ciągnęła mnie w&nbsp;świat, dlatego swoje zawodowe życie
+            związałem
+            z&nbsp;turystyką. Jako pilot-przewodnik pokazywałem swoim podopiecznym kraje bliższe i&nbsp;dalsze,
             sam
-            też poznając i ucząc się nowych miejsc i kultur. Szczególnie bliskie są mi Włochy,
-            niepowtarzalny klimat tamtejszych winnic, zamiłowanie do natury i prostoty, ale także
+            też poznając i&nbsp;ucząc się nowych miejsc i&nbsp;kultur. Szczególnie bliskie są mi
+            Włochy,
+            niepowtarzalny klimat tamtejszych winnic, zamiłowanie do natury i&nbsp;prostoty, ale
+            także
             niezwykła architektura. Fuzja tych fascynacji oraz …. pandemia, która niespodziewanie
-            uderzyła w mój zawód,
+            uderzyła w&nbsp;mój zawód,
             popchnęły mnie do otwarcia własnej pracowni.
           </p>
           <h2>inspiracje</h2>
           <p>
             Realizuję w niej wszystko to, czym
             nasiąkałem przez lata – rustykalne formy przywiezione
-            z włoskiej tawerny, metalowe akcenty, które pamiętam z kuźni w katowickim plastyku, ale
-            też nowoczesne połączenia stali i drewna, które odpowiadają moim zamiłowaniom do
+            z&nbsp;włoskiej tawerny, metalowe akcenty, które pamiętam z kuźni w&nbsp;katowickim
+            Plastyku, ale
+            też nowoczesne połączenia stali i&nbsp;drewna, które odpowiadają moim zamiłowaniom do
             loftowego
-            stylu i customowego zacięcia. Wszystko, co oferuję, jest dziełem moich rąk, ale też
+            stylu i&nbsp;customowego zacięcia. Wszystko, co oferuję, jest dziełem moich rąk, ale też
             pomysłowości
-            i kreatywności. Zawsze fascynowały mnie nieregularne formy wydobywające się spod
+            i&nbsp;kreatywności. Zawsze fascynowały mnie nieregularne formy wydobywające się spod
             kowadła,
-            ich unikatowość i historia, jaką opowiadają. To one wykształciły mój styl.
+            ich unikatowość i&nbsp;historia, jaką opowiadają. To one wykształciły mój styl.
           </p>
           <h2>porozmawiajmy</h2>
 
-          <p> Chętnie porozmawiam z Wami i poznam Wasze pomysły na meble i drewniane dodatki do
+          <p>Chętnie porozmawiam z Wami i&nbsp;poznam Wasze pomysły na meble i&nbsp;drewniane
+            dodatki do
             domu,
             jakie
-            chcielibyście mieć. Jeśli urządzacie biuro - podpowiem jaki regał byłoby odpowiedni.
+            chcielibyście mieć. Jeśli urządzacie biuro - podpowiem, jaki regał byłby odpowiedni.
             Wierzę,
-            że połączenie Waszych inspiracji z moim doświadczeniem sprawi, że
+            że połączenie Waszych inspiracji z&nbsp;moim doświadczeniem sprawi, że
             w Waszych wnętrzach zagości coś naprawdę wyjątkowego.</p>
         </div>
         <div class="photo" data-aos="fade-in" data-aos-duration="1000">

@@ -11,16 +11,16 @@
     </div>
     <ContentWithImage filename="oferta_1.jpg" style="padding-top: 5vh">
       <div class="text">
-        <p>Co oferuję? Nieskończoną ilość pomysłów i kombinacji na użycie drewna we
-          wnętrzach, dlatego
-          moja oferta ma charakter otwarty.
-          <nuxt-link class="link" to="/products">Tu znajdziesz rzeczy,
-            które do tej pory zrealizowałem.
+        <p>Co oferuję? Nieskończoną ilość pomysłów i&nbsp;kombinacji na użycie drewna we wnętrzach,
+          dlatego moja oferta ma charakter otwarty.
+          <nuxt-link class="link" to="/products">Tu znajdziesz rzeczy, które do tej pory
+            zrealizowałem.
           </nuxt-link>
         </p>
         <p>Jeśli szukasz customowych mebli na wymiar do biura czy domu, napisz do mnie – omówimy
-          szczegóły, dokonam wyceny i przygotuję dla Ciebie projekt. W razie większych realizacji -
-          przyjadę na wizję lokalną, dokonam pomiarów i przygotuję wizualizację mebla w Twoim
+          szczegóły, dokonam wyceny i&nbsp;przygotuję dla Ciebie projekt. W&nbsp;razie większych
+          realizacji -
+          przyjadę na wizję lokalną, dokonam pomiarów i&nbsp;przygotuję wizualizację mebla w Twoim
           wnętrzu. </p></div>
     </ContentWithImage>
     <ContentWithImage filename="oferta_2.jpg" reverse style="padding-top: 5vh">
@@ -29,8 +29,10 @@
         idealnego dla Twojej przestrzeni.</p></div>
     </ContentWithImage>
     <ContentWithImage filename="oferta_3.jpg" style="padding-top: 5vh">
-      <div class="text"><p>Wszystko, co oferuję, jest dziełem moich rąk i wyobraźni. Kocham drewno,
-        jego nieregularną strukturę i niepowtarzalność. Z każdego kawałka staram się wydobyć jego
+      <div class="text"><p>Wszystko, co oferuję, jest dziełem moich rąk i&nbsp;wyobraźni. Kocham
+        drewno,
+        jego nieregularną strukturę i&nbsp;niepowtarzalność. Z każdego kawałka staram się wydobyć
+        jego
         unikatowy charakter. </p></div>
     </ContentWithImage>
     <div class="subtitle"
