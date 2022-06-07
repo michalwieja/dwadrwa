@@ -5,7 +5,7 @@
     <h3>po więcej zapraszam na <a href="https://www.instagram.com/dwadrwa/"
                                   target="_blank">
       <IgIcon style="height: 30; width: 30"/>
-    </a> oraz <a href="https://www.facebook.com/dwadrwa" target="_blank">
+    </a> <a href="https://www.facebook.com/dwadrwa" target="_blank">
       <FbIcon style="height: 30; width: 30"/>
     </a></h3>
     <div v-for="product in products" :key="product.id">

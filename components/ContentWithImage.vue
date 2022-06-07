@@ -7,7 +7,7 @@
       </div>
     </div>
     <div class="image" data-aos="fade-in" data-aos-duration="1000">
-      <nuxt-img :src="`${filename}`" sizes="2xl:40vw"/>
+      <nuxt-img :src="`${filename}`" sizes="2xl:50vw"/>
     </div>
   </div>
 </template>

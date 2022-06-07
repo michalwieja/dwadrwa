@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="hero__img">
-      <nuxt-img loading="lazy" sizes="2xl:100vw" src="/hero-ver.jpg"/>
+      <nuxt-img loading="lazy" src="/hero-ver.jpg"/>
     </div>
     <div class="title"> - z
       miłości do drewna -

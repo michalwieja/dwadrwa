@@ -63,7 +63,7 @@
             w&nbsp;Waszych wnętrzach zagości coś naprawdę wyjątkowego.</p>
         </div>
         <div class="photo" data-aos="fade-in" data-aos-duration="1000">
-          <nuxt-img sizes="2xl:400" src="/home.jpg"/>
+          <nuxt-img sizes="2xl:500" src="/home.jpg"/>
         </div>
       </div>
     </div>
