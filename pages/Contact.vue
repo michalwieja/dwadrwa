@@ -16,7 +16,8 @@
             <FbIcon style="height: 30; width: 30"/>
           </a>
         </div>
-        <div class="contact__row">Stacjonuję na terenie Śląska, jednak szerokość geograficzna mnie
+        <div class="contact__small-row">Stacjonuję na terenie Śląska, jednak szerokość geograficzna
+          mnie
           nie ogranicza
           w&nbsp;działaniu
         </div>

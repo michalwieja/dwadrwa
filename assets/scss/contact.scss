@@ -20,6 +20,17 @@
   &__row {
     font-size: $fz30;
   }
+
+  &__small-row {
+    font-size: $fz24;
+    margin-top: 10vh;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+
 }
 
 @media (max-width: $break-900) {
