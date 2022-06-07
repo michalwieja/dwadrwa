@@ -31,8 +31,8 @@ const galleries = [
   },
   {
     id: '7',
-    title: 'belki',
-    desc: 'Belki strychowe z ponad 100 letnią historią, dodają mieszkaniu rustykalnego charakteru, ocieplają wnętrze. Modrzew.',
+    title: 'pozostałe',
+    desc: 'Na specjalne zamówienia klientów, zrealizowałem różne dodatkowe projekty, takie jak kwietniki, wieszaki na ubrania z\u00A0wykorzystaniem ponad 100-letnich, odrestaurowanych przeze mnie gwoździ, belki strychowe i\u00A0wiele innych.',
   }];
 const res = galleries.map((gallery) => {
   const p = path.join(process.cwd(), 'static', 'products', gallery.id);
