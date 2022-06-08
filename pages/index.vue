@@ -12,11 +12,13 @@
             Cześć, mam na imię Filip. Jeśli tu trafiłeś, to prawdopodobnym jest, że
             podzielasz moją
             miłość
-            do drewna i&nbsp;szukasz wyjątkowych mebli lub drewnianych dodatków do swojego wnętrza.
+            do drewna i&nbsp;szukasz wyjątkowych mebli lub dodatków z&nbsp;drewma i&nbsp;stali do
+            swojego wnętrza.
             Pozwól
             zatem zaprosić się do mojego świata.</p>
           <h2 class="text-underline">pasje</h2>
-          <p> Prace rękodzielnicze i&nbsp;majsterkowanie pokochałem już za bajtla, budując szałasy i&nbsp;naprawiając
+          <p> Prace rękodzielnicze i&nbsp;majsterkowanie pokochałem już będąc dzieckiem, budując
+            szałasy i&nbsp;naprawiając
             przyczepę kempingową podczas kaszubskich wakacji z rodzicami. Niedługo później
             zaciekawił
             mnie
@@ -27,7 +29,8 @@
           <p>
             Druga część mojej duszy ciągnęła mnie w&nbsp;świat, dlatego swoje zawodowe życie
             związałem
-            z&nbsp;turystyką. Jako pilot-przewodnik pokazywałem swoim podopiecznym kraje bliższe i&nbsp;dalsze,
+            z&nbsp;podróżami i&nbsp;eksploracją nowych zakątków świata. Jako pilot-przewodnik
+            pokazywałem swoim podopiecznym kraje bliższe i&nbsp;dalsze,
             sam
             też poznając i&nbsp;ucząc się nowych miejsc i&nbsp;kultur. Szczególnie bliskie są mi
             Włochy,
@@ -53,8 +56,8 @@
           </p>
           <h2>porozmawiajmy</h2>
 
-          <p>Chętnie porozmawiam z Wami i&nbsp;poznam Wasze pomysły na meble i&nbsp;drewniane
-            dodatki do
+          <p>Chętnie porozmawiam z Wami i&nbsp;poznam Wasze pomysły i&nbsp;oczekiwania na meble i&nbsp;dodatki&nbsp;z
+            drewna i&nbsp;stali do
             domu,
             jakie
             chcielibyście mieć. Jeśli urządzacie biuro - podpowiem, jaki regał byłby odpowiedni.

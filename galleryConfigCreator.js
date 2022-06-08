@@ -5,7 +5,7 @@ const galleries = [
   {
     id: '1',
     title: 'regał',
-    desc: 'Regał wykonany na specjalne zamówienie klienta, dedykowany mieszkaniu w\u00A0starej kamienicy, wymiary 1,6\u00A0x\u00A03m, konstrukcja stalowa lakierowana proszkowo, czarny mat, drewno sosnowe, kolor dębowy.',
+    desc: 'Regał wykonany na specjalne zamówienie klienta, dedykowany mieszkaniu w\u00A0starej kamienicy, wymiary 1,6\u00A0x\u00A03m, konstrukcja stalowa lakierowana proszkowo, czarny mat, drewno sosnowe, kolor dębu.',
   }, {
     id: '2',
     title: 'podkładki',
@@ -17,7 +17,7 @@ const galleries = [
   }, {
     id: '4',
     title: 'półka na ekspres do kawy',
-    desc: 'Półeczka pod ekspres do kawy na specjalne zamówienie. Pozwoliła uzyskać dodatkową przestrzeń na blacie w\u00A0kuchni. Drewno bukowe, kolor dębowy.',
+    desc: 'Półeczka pod ekspres do kawy na specjalne zamówienie. Pozwoliła uzyskać dodatkową przestrzeń na blacie w\u00A0kuchni. Drewno bukowe, kolor dębu.',
   },
   {
     id: '5',

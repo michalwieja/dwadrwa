@@ -24,7 +24,8 @@
           wnętrzu. </p></div>
     </ContentWithImage>
     <ContentWithImage filename="oferta_2.jpg" reverse style="padding-top: 5vh">
-      <div class="text"><p>Jeśli szukasz drewnianych dodatków do domu, takich jak kwietniki,
+      <div class="text"><p>Jeśli szukasz dodatków z&nbsp;drewna i&nbsp;stali do domu, takich jak
+        kwietniki,
         świeczniki czy deskę do serwowania tapasów – zapraszam do kontaktu, razem stworzymy coś
         idealnego dla Twojej przestrzeni.</p></div>
     </ContentWithImage>
