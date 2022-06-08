@@ -35,7 +35,7 @@
             także
             niezwykła architektura. Fuzja tych fascynacji oraz… pandemia, która niespodziewanie
             uderzyła w&nbsp;mój zawód,
-            popchnęły mnie do otwarcia własnej pracowni Dwa Drwa.
+            popchnęły mnie do otwarcia własnej pracowni Dwa&nbsp;Drwa.
           </p>
           <h2>inspiracje</h2>
           <p>
