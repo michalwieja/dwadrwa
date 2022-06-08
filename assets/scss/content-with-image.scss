@@ -72,6 +72,12 @@
   .content-with-image {
     flex-direction: column-reverse;
 
+    .content {
+      .text {
+        text-align: left;
+      }
+    }
+
     & > div {
       width: 100%;
     }

@@ -13,7 +13,7 @@
       <div class="text">
         <p>Co oferuję? Nieskończoną ilość pomysłów i&nbsp;kombinacji na użycie drewna we wnętrzach,
           dlatego moja oferta ma charakter otwarty.
-          <nuxt-link class="link" to="/products">Tu znajdziesz rzeczy, które do tej pory
+          <nuxt-link class="link" to="/products">Tu&nbsp;znajdziesz rzeczy, które do tej pory
             zrealizowałem.
           </nuxt-link>
         </p>
