@@ -33,7 +33,7 @@
             Włochy,
             niepowtarzalny klimat tamtejszych winnic, zamiłowanie do natury i&nbsp;prostoty, ale
             także
-            niezwykła architektura. Fuzja tych fascynacji oraz …. pandemia, która niespodziewanie
+            niezwykła architektura. Fuzja tych fascynacji oraz… pandemia, która niespodziewanie
             uderzyła w&nbsp;mój zawód,
             popchnęły mnie do otwarcia własnej pracowni.
           </p>
