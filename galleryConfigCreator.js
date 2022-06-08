@@ -16,7 +16,7 @@ const galleries = [
     desc: 'Świecznik wykonany ze starej belki strychowej, ręczne żłobienie podkreślające unikatową strukturę drewna. Wymiar dowolny, modrzew.',
   }, {
     id: '4',
-    title: 'półka na ekspress do kawy',
+    title: 'półka na ekspres do kawy',
     desc: 'Półeczka pod ekspres do kawy na specjalne zamówienie. Pozwoliła uzyskać dodatkową przestrzeń na blacie w\u00A0kuchni. Drewno bukowe, kolor dębowy.',
   },
   {
