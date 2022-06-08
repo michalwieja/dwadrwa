@@ -32,7 +32,8 @@
             z&nbsp;podróżami i&nbsp;eksploracją nowych zakątków świata. Jako pilot-przewodnik
             pokazywałem swoim podopiecznym kraje bliższe i&nbsp;dalsze,
             sam
-            też poznając i&nbsp;ucząc się nowych miejsc i&nbsp;kultur. Szczególnie bliskie są mi
+            też poznając i&nbsp;ucząc się nowych miejsc i&nbsp;kultur. Szczególnie bliskie mojemu
+            sercu są
             Włochy,
             niepowtarzalny klimat tamtejszych winnic, zamiłowanie do natury i&nbsp;prostoty, ale
             także
