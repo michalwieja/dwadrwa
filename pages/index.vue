@@ -12,7 +12,7 @@
             Cześć, mam na imię Filip. Jeśli tu trafiłeś, to prawdopodobnym jest, że
             podzielasz moją
             miłość
-            do drewna i&nbsp;szukasz wyjątkowych mebli lub dodatków z&nbsp;drewma i&nbsp;stali do
+            do drewna i&nbsp;szukasz wyjątkowych mebli lub dodatków z&nbsp;drewna i&nbsp;stali do
             swojego wnętrza.
             Pozwól
             zatem zaprosić się do mojego świata.</p>
