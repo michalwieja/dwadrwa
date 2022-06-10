@@ -33,10 +33,11 @@
     height: 100%;
     position: relative;
     z-index: 5;
+    display: flex;
 
     img, svg {
-      background-color: blue;
-      height: 100%;
+      display: flex;
+
     }
   }
 
