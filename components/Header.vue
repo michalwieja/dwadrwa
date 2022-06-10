@@ -2,7 +2,7 @@
   <header :class="{'active' : scrollPos > 0}" class="header">
     <div class="container">
       <div class="logo">
-        <NuxtLink to="/">
+        <NuxtLink style="height: 100%" to="/">
           <Logo/>
         </NuxtLink>
       </div>
