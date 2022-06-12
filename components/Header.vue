@@ -14,7 +14,6 @@
             </NuxtLink>
           </li>
         </ul>
-
         <div class="burger">
           <div class="burger__line"/>
           <div class="burger__line"/>

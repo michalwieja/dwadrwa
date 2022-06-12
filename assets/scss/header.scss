@@ -35,6 +35,10 @@
     z-index: 5;
     display: flex;
 
+    a {
+      height: 100%;
+    }
+
     img, svg {
       height: 100%;
     }
