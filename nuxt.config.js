@@ -22,7 +22,7 @@ export default {
       },
       {
         hid: 'description',
-        name: ' Cześć, mam na imię Filip. Jeśli tu trafiłeś, to prawdopodobnym jest, że podzielasz moją miłość do drewna',
+        name: 'Dwa Drwa to autorska, kreatywna pracownia drewna, w której tworzę customowe meble na wymiar oraz domowe dodatki z drewna i metalu. Oferta pracowni ma charakter otwarty – powstają tu produkty, które są wynikiem połączenia potrzeb klienta z moim doświadczeniem. Dwa Drwa - z miłości do drewna.',
         content: ''
       },
       {
@@ -41,7 +41,7 @@ export default {
       }, {
         hid: 'og:description',
         property: 'og:description',
-        content: ' Cześć, mam na imię Filip. Jeśli tu trafiłeś, to prawdopodobnym jest, że podzielasz moją miłość do drewna'
+        content: 'Dwa Drwa to autorska, kreatywna pracownia drewna, w której tworzę customowe meble na wymiar oraz domowe dodatki z drewna i metalu. Oferta pracowni ma charakter otwarty – powstają tu produkty, które są wynikiem połączenia potrzeb klienta z moim doświadczeniem. Dwa Drwa - z miłości do drewna.'
       },
       {
         hid: 'og:image',

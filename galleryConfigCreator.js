@@ -9,7 +9,7 @@ const galleries = [
   }, {
     id: '2',
     title: 'podkładki',
-    desc: 'Podkładki pod kubek, wazon, świeczkę, doniczkę…. Wykonane ze starej belki strychowej, każdy kawałek drewna jest unikatowy, każdy opowiada inną historię. Modrzew.',
+    desc: 'Podkładki pod kubek, wazon, świeczkę, doniczkę… Wykonane ze starej belki strychowej, każdy kawałek drewna jest unikatowy, każdy opowiada inną historię. Modrzew.',
   }, {
     id: '3',
     title: 'świeczniki',
