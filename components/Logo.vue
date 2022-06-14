@@ -1,9 +1,9 @@
 <template>
-  <!--  <svg height="100%" style="fill-rule:evenodd;clip-rule:evenodd;" version="1.1"
-         viewBox="0 0 4000 1938"
-         width="100%" xml:space="preserve"
-         xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/"
-         xmlns:xlink="http://www.w3.org/1999/xlink">
+  <svg height="100%" style="fill-rule:evenodd;clip-rule:evenodd;" version="1.1"
+       viewBox="0 0 4000 1938"
+       width="100%" xml:space="preserve"
+       xmlns="http://www.w3.org/2000/svg" xmlns:serif="http://www.serif.com/"
+       xmlns:xlink="http://www.w3.org/1999/xlink">
       <g transform="matrix(9.93947,0,0,9.93947,-595.656,-1988.11)">
           <g transform="matrix(-0.0996161,0.00875421,0.00875421,0.0996161,640.156,-18.6429)">
               <path
@@ -103,9 +103,10 @@
               </g>
           </g>
       </g>
-  </svg>-->
-  <nuxt-img loading="lazy" src="/logo.png"/>
+  </svg>
 
+
+  <!--  <nuxt-img loading="lazy" src="/logo.png"/>-->
 </template>
 
 <script>
