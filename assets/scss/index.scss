@@ -65,3 +65,7 @@ body {
 .page-enter, .page-leave-to {
   opacity: 0;
 }
+ 
+.cool-lightbox svg path, .cool-lightbox svg rect {
+  fill: white !important;
+}
