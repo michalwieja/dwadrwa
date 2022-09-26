@@ -1,14 +1,12 @@
 <template>
-  <div>
+  <div v-if="parsed">
     <CoolLightBox :effect="'fade'"
-                  :fullScreen="true"
+                  :full-screen="true"
                   :index="index"
                   :items="parsed"
-                  :useZoomBar="true"
-                  slideshowColorBar="#ffffff"
+                  :use-zoom-bar="true"
+                  slideshow-color-bar="#ffffff"
                   @close="index = null"
-
-
     />
     <div data-aos="fade-in"
          data-aos-delay="300" data-aos-duration="2000">
@@ -17,7 +15,7 @@
       <div class="gridContainer">
         <div v-for="(image, idx) in parsed"
              :key="image"
-             :class="`gridElement-${index} length-${product.files.length}`"
+             :class="`gridElement-${idx} length-${product.files.length}`"
         >
           <nuxt-img
             :src="image"
